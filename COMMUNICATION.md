@@ -46,6 +46,4 @@ If following the guidelines don't clear things up, consider a call to solve the 
 
 ### Good to keep in mind:
 
-When reviewing pull requests keep in mind that you are reviewing something that someone else has worked on really hard, so always be respectful. These guidelines for giving feedback are a good reference:
-
-https://github.com/bakkenbaeck/iOS-playbook/blob/master/GIT_AND_GITHUB.md#reviewing-pull-requests
+When reviewing pull requests keep in mind that you are reviewing something that someone else has worked on really hard, so always be respectful.

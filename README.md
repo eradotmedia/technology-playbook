@@ -1,4 +1,4 @@
-![logo](insert url)
+![logo](https://raw.githubusercontent.com/eradotmedia/technology-playbook/master/assets/era_technology_playbook_logo.png)
 
 Consistency is 👸, or is it Beyoncé? 🤔
 
